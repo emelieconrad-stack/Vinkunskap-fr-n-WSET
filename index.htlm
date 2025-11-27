@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinkunskap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Välkommen till Vinkunskap</h1>
+        <p>Din guide till vinprovning, druvor, klimat och matchning med mat.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#vad-ar-vin">Vad är vin?</a></li>
+            <li><a href="#provning">Provningsmetodik</a></li>
+            <li><a href="#wset">WSET</a></li>
+            <li><a href="#aromer">Aromgrupper</a></li>
+            <li><a href="#klimat">Klimat & regioner</a></li>
+            <li><a href="#druvor">Druvor</a></li>
+            <li><a href="#matvin">Vin & mat</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="vad-ar-vin">
+            <h2>Vad är vin?</h2>
+            <p>Vin är fermenterad druvjuice. Socker + jäst = alkoholjäsning (ABV %).</p>
+            <p>Skillnaden mellan gröna och blå druvor ligger i skalets färg och tjocklek.</p>
+        </section>
+
+        <section id="provning">
+            <h2>Provningsmetodik</h2>
+            <p>Att prova vin är som att leta ledtrådar:</p>
+            <ul>
+                <li><strong>Synledtrådar:</strong> ålder, filtrering, bubbel, sötma.</li>
+                <li><strong>Smakledtrådar:</strong> yngre vin: färsk frukt, äldre: läder/torkade blommor.</li>
+                <li><strong>Doftledtrådar:</strong> klimat och tillverkningsmetod.</li>
+            </ul>
+            <p>Dra en slutsats genom att kombinera syn-, doft- och smakledtrådar.</p>
+            <p>Varför prova vin?</p>
+            <ul>
+                <li>Lättare att minnas viner man provat</li>
+                <li>Kommunicera till andra</li>
+                <li>Välja vin efter tillfälle/maträtt</li>
+                <li>Tyda etiketter</li>
+                <li>Avgöra kvalitet och lagringspotential</li>
+            </ul>
+        </section>
+
+        <section id="wset">
+            <h2>WSET</h2>
+            <p><strong>Level 1:</strong></p>
+            <ul>
+                <li>Känn till de viktigaste stegen i druvodling och vintillverkning</li>
+                <li>Känn till typer, karaktär och stil för huvuddruvor</li>
+                <li>Känn till principer för lagring och servering av vin</li>
+            </ul>
+            <p>Provningstips enligt WSET:</p>
+            <ul>
+                <li>Luta glaset mot ljus yta</li>
+                <li>Kolla klarhet, intensitet, färg</li>
+                <li>Övriga parametrar: bubblor, tårar, fällning</li>
+            </ul>
+        </section>
+
+        <section id="aromer">
+            <h2>Aromgrupper</h2>
+            <p>Primäraromer: druvans aromer (florala, grön frukt, citrus, stenfrukt, tropisk frukt, röda och mörka bär, vegetativa, örtiga, kryddor).</p>
+            <p>Sekundäraromer: vinmakningens påverkan (jäst, malolaktisk jäsning, ek).</p>
+            <p>Teritiäraromer: flasklagring och ålder (torkad frukt, läder, svamp, karamell).</p>
+        </section>
+
+        <section id="klimat">
+            <h2>Klimat & regioner</h2>
+            <p>Druvor odlas mellan 30°–50° latitud. Närhet till vatten påverkar mikroklimat, altitud, jordmån och soltimmar/regnmängd spelar stor roll.</p>
+            <p>Temperaturklasser:</p>
+            <ul>
+                <li>Cool climate: ~16°C</li>
+                <li>Moderate: ~18°C</li>
+                <li>Warm: ~20°C</li>
+            </ul>
+        </section>
+
+        <section id="druvor">
+            <h2>Druvor</h2>
+            <ul>
+                <li><strong>Chardonnay:</strong> Grön, tålig, alla klimat. Primäraromer: grön frukt, citrus, stenfrukt, tropisk frukt.</li>
+                <li><strong>Sauvignon Blanc:</strong> Grön, aromatisk. Aromer: örtig, krusbär, fläder, citrus.</li>
+                <li><strong>Riesling:</strong> Aromatisk, hög syra, cool climate. Aromer: grön frukt, citrus, petroleum, honung.</li>
+                <li><strong>Cabernet Sauvignon:</strong> Blå, hög tannin, full kropp. Aromer: svarta vinbär, cederträ, gräs.</li>
+                <li><strong>Syrah/Shiraz:</strong> Medium/hög tannin, fyllig. Aromer: peppar, mörk frukt, choklad.</li>
+                <li><strong>Pinot Noir:</strong> Ljus färg, mjuka taniner, hög syra. Aromer: röd frukt, vegetativa toner, läder.</li>
+                <li><strong>Merlot:</strong> Mjuk, medelfyllig, röd/fruktig arom, ofta blend med Cabernet Sauvignon.</li>
+            </ul>
+        </section>
+
+        <section id="matvin">
+            <h2>Vin & mat</h2>
+            <ul>
+                <li>Sötma möter sötma</li>
+                <li>Syra möter syra</li>
+                <li>Beska förhöjer beska</li>
+                <li>Salt dödar för mycket eller för lite</li>
+                <li>Umami ökar beska, kan ge metallisk smak</li>
+            </ul>
+            <p><strong>Serveringstemperatur:</strong></p>
+            <ul>
+                <li>Söta viner: 6-8°C</li>
+                <li>Mousserande: 6-10°C</li>
+                <li>Lätta vita & rosé: 7-10°C</li>
+                <li>Fylliga vita: 10-13°C</li>
+                <li>Lätta röda: 13°C</li>
+                <li>Medium/fylliga röda: 15-18°C</li>
+            </ul>
+        </section>
+
+        <section id="quiz">
+            <h2>Testa din vinkunskap!</h2>
+            <p>Vilken druva används ofta i rött vin?</p>
+            <button onclick="checkAnswer('Rätt')">Cabernet Sauvignon</button>
+            <button onclick="checkAnswer('Fel')">Chardonnay</button>
+            <button onclick="checkAnswer('Fel')">Riesling</button>
+            <p id="result"></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Vinkunskap</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
